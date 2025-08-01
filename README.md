@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEEC1,100:C5A880&height=200&section=header&text=MoonWhistle&fontSize=60&fontAlign=50&fontColor=2F2F2F" />
 </div>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sdj3261&count_bg=%23D9C6B0&title_bg=%234B3621&icon=github.svg&icon_color=%23F5F5DC&title=hits&edge_flat=false"/>
-</p>
+
 
 ---
 
