@@ -20,8 +20,14 @@
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=github_dark&rank_icon=github&locale=en" width="400px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=moonwhistle&theme=github_dark" />
-
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=moonwhistle
+    &show_icons=true
+    &theme=radical
+    &include_all_commits=true
+    &rank_icon=percentile
+  " 
+/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonwhistle&layout=compact&theme=github_dark" width="300px" />
   
 </div>
