@@ -20,8 +20,7 @@
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=github_dark&rank_icon=github&locale=en" width="400px" />
-  ![MoonWhistle's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonwhistle&layout=compact&theme=github_dark" width="300px" />
   
 </div>
