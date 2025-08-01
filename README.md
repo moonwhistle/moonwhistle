@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEEC1,100:C5A880&height=200&section=header&text=MoonWhistle&fontSize=60&fontAlign=70&fontColor=2F2F2F" />
+</div>
 
-<!--
-**moonwhistle/moonwhistle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sdj3261&count_bg=%23D9C6B0&title_bg=%234B3621&icon=github.svg&icon_color=%23F5F5DC&title=hits&edge_flat=false"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanghuigg@gmail.com)
+  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=blogger&logoColor=white)](https://sanghu-i.tistory.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sdj3261&show_icons=true&theme=github_dark&rank_icon=github&locale=en" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdj3261&layout=compact&theme=github_dark" width="300px" />
+  
+</div>
