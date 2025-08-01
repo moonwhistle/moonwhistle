@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEEC1,100:C5A880&height=200&section=header&text=MoonWhistle&fontSize=60&fontAlign=50&fontColor=2F2F2F" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FBEEC1,100:C5A880&height=150&section=header&text=MoonWhistle&fontSize=50&fontAlign=50&fontColor=2F2F2F" />
 </div>
 
 
