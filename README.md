@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEEC1,100:C5A880&height=200&section=footer&text=MoonWhistle&fontSize=60&fontAlign=50&fontColor=2F2F2F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEEC1,100:C5A880&height=200&section=header&text=안녕하세요,%20개발자%20문상휘입니다👋&fontSize=40&fontAlign=50&fontColor=2F2F2F" />
 </div>
 
 ---
@@ -18,8 +18,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=github_dark&rank_icon=github&locale=en" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-score?username=sdj3261&theme=github_dark" width="300px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonwhistle&layout=compact&theme=github_dark" width="300px" />
   
 </div>
