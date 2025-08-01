@@ -19,7 +19,6 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=github_dark&rank_icon=github&locale=en" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=github_dark" width="400px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonwhistle&layout=compact&theme=github_dark" width="300px" />
   
