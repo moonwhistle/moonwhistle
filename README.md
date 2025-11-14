@@ -1,9 +1,9 @@
 ## Profile
 
-### Name
+#### Name
 * 문상휘 - Sang Hui Moon
 
-### Study
+#### Study
 * Backend development with Spring Boot, Java, and Databases..
 * Redis for caching and real-time messaging
 * Kafka-based event processing
@@ -11,11 +11,11 @@
 * Back-office automation with RPA tools (BluePrism, UiPath)
 
 
-### Open Source
-* Contributed to the JDBC4 Java binding for the [turso](https://github.com/tursodatabase/turso)(limbo project)
+#### Open Source
+* Contributed to the JDBC4 Java binding for the [turso](https://github.com/tursodatabase/turso) (limbo project)
 
 
-### Other
+#### Other
 * Welding(TIG, ARC) when I have free time..
 
 
