@@ -1,25 +1,28 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBEEC1,100:C5A880&height=200&section=header&text=MoonWhistle&fontSize=40&fontAlign=50&fontColor=2F2F2F" />
-</div>
+## Profile
 
----
+### Name
+* 문상휘 - Sang Hui Moon
 
-## 📬 Contact
+### Study
+* Backend development with Spring Boot, Java, and Databases..
+* Redis for caching and real-time messaging
+* Kafka-based event processing
+* DevOps workflows for deployment and management (AWS, GitHub Actions, Docker)
+* Back-office automation with RPA tools (BluePrism, UiPath)
 
-<div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanghuigg@gmail.com)
-  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=blogger&logoColor=white)](https://sanghu-i.tistory.com/)
+### Open Source
+* Contributed to the JDBC4 Java binding for the [turso](https://github.com/tursodatabase/turso)(limbo project)
 
-</div>
 
----
+### Other
+* Welding(TIG, ARC) when I have free time..
 
-## 📊 GitHub Stats
 
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=moonwhistle&show_icons=true&theme=github_dark" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonwhistle&layout=compact&theme=github_dark" width="300px" />
-  
-</div>
+## Contact
+* [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:sanghuigg@naver.com)
+
+
+
+## Blog
+* [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=blogger&logoColor=white)](https://sanghu-i.tistory.com/)
