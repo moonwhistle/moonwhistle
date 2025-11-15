@@ -10,7 +10,7 @@
   * Redis for caching and real-time messaging
   * Kafka-based event processing
   * DevOps workflows for deployment and management (AWS, GitHub Actions, Docker)
-  * Back-office automation with RPA (BluePrism, UiPath)
+  * Back-office automation with RPA (BluePrism)
 
 
 
