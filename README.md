@@ -12,15 +12,10 @@
 
 <br>
 
-* Experience
-  * FAS – RPA Intern (2025.08 ~ 2025.12)
-
-<br>
-
-* Education
+* Background
   * SSAFY – Samsung SW Academy for Youth (2026.01 ~ )
+  * FAS – RPA Intern (2025.08 ~ 2025.12)
   * Myongji University, B.S. in ICT Engineering (2020.03 ~ 2026.02)
-
 
 <br>
 
