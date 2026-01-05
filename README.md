@@ -1,8 +1,7 @@
 ## 📌 Profile
 
-* Name
-  * 문상휘 - Sang Hui Moon
- 
+* Name: 문상휘 (Sang Hui Moon)
+
  <br>
 
 * Do 🏃
