@@ -6,8 +6,8 @@
 
 * Do 🏃
   * Spring Boot, Java, and Databases..
-  * DevOps workflows for deployment and management (AWS, GitHub Actions, Docker)
-  * Back-office automation with RPA (BluePrism)
+  * DevOps workflows for deployment and management (AWS, GitHub Actions, Docker, Jenkins)
+  * Back-office automation with RPA (BluePrism, UiPath)
 
 <br>
 
